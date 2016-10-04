@@ -1,0 +1,1 @@
+['matplotlib==1.4.3','numpy==1.9.2', 'pandas==0.16.2','pip==6.0.8','scikit-learn==0.17', 'sexmachine==0.1.1', 'pybrain==0.31', 'ipython']
