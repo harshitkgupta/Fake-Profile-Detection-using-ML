@@ -4,15 +4,15 @@ Freelancer.com project URL: https://www.freelancer.in/projects/Python/Write-some
 
 ##install all python dependencies as mentioned below##
 
-|pip|
-|numpy|
-|pandas|
-|ipython|
-|ipython notebook|
-|matplotlib|
-|sexmachine|
-|scikit-learn|  
-|pybrain|
+*pip
+*numpy
+*pandas
+*ipython
+*ipython notebook
+*matplotlib
+*sexmachine
+*scikit-learn
+*pybrain
 
 ## if you want to re-run code then it can be done in two ways-##
   1- using ipython notebook(recommneded)
