@@ -3,6 +3,7 @@
 Freelancer.com project URL: https://www.freelancer.in/projects/Python/Write-some-Software-9045568/
 
 ##install all python dependencies as mentioned below##
+
 >>pip
 >>numpy
 >>pandas
@@ -13,7 +14,7 @@ Freelancer.com project URL: https://www.freelancer.in/projects/Python/Write-some
 >>scikit-learn  
 >>pybrain
 
-## if you want to re-runn code then it can be done in two ways-##
+## if you want to re-run code then it can be done in two ways-##
   1- using ipython notebook(recommneded)
   
      `$ ipython notebook`
